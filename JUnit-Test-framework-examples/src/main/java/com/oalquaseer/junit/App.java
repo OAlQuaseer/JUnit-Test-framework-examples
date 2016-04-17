@@ -1,4 +1,4 @@
-package JUnit_Test_framework_examples.JUnit_Test_framework_examples;
+package com.oalquaseer.junit;
 
 /**
  * Hello world!
