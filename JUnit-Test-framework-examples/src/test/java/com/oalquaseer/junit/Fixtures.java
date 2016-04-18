@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 /**
  * Unit test for Fixture feature in JUnit test framework.
  */
-public class Example1 extends TestCase {
+public class Fixtures extends TestCase {
 	
 	protected Integer value1, value2;
 	
