@@ -2,7 +2,8 @@ package com.oalquaseer.junit;
 
 public class MessageUtil {
 	public String message ;
-	MessageUtil(String message){
+	
+	public MessageUtil(String message){
 		this.message = message;
 		
 	}

@@ -1,4 +1,4 @@
-package com.oalquaseer.junit;
+package com.oalquaseer.junit.test;
 
 import junit.framework.TestCase;
 

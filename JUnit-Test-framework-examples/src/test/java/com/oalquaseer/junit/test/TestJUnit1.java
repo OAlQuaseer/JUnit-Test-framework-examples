@@ -1,8 +1,10 @@
-package com.oalquaseer.junit;
+package com.oalquaseer.junit.test;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import com.oalquaseer.junit.MessageUtil;
 
 public class TestJUnit1 {
 

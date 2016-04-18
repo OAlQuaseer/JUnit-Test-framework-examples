@@ -1,4 +1,4 @@
-package com.oalquaseer.junit;
+package com.oalquaseer.junit.test;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
