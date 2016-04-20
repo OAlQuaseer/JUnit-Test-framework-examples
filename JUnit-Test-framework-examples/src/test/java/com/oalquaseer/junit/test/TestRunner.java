@@ -8,7 +8,7 @@ public class TestRunner {
 
 	public static void main(String[] args) {
 
-		Result result = JUnitCore.runClasses(TestJUnit1.class, TestJUnit2.class, Fixtures.class);
+		Result result = JUnitCore.runClasses(TestJUnit1.class, TestJUnit2.class, Fixtures.class, TestResultFeature.class);
 
 		for (Failure failure : result.getFailures()) {
 
